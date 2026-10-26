@@ -1,4 +1,4 @@
-##API SCANNER
+## API SCANNER
 
 > Full-stack API vulnerability scanner targeting the OWASP API Security Top 10 with configurable scan modules and a React dashboard.
 
